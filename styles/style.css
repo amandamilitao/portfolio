@@ -98,7 +98,7 @@ body {
     color: var(--cor-terciaria);
 }
 
-.apresentacao__links__link:hover {
+.apresentacao__links__navegacao:hover {
     background-color: var(--cor-hover);
     padding: 3%;
 }
