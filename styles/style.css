@@ -18,7 +18,7 @@
 body {
     /* height: 100vh; */
     box-sizing: border-box;
-    background-color: var(--cor-primaria);
+    background-image: linear-gradient(to right, #472D2D, #472D2D, #A77979);
     color: var(--cor-secundaria);
 }
 
