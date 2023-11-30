@@ -59,7 +59,7 @@ body {
     font-family: var(--fonte-primaria);
 }
 
-.titulo-destaque {
+.titulo_destaque {
     color: var(--cor-terciaria);
 }
 
